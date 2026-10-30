@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fitness Companion</string>
+    <string name="step_channel_name">Theo dõi bước chân</string>
+    <string name="step_channel_description">Hiển thị số bước hôm nay khi đang theo dõi ở chế độ nền</string>
+    <string name="step_notification_title">Đang theo dõi bước chân</string>
+    <string name="step_notification_waiting">Đang đếm bước chân của bạn</string>
+    <string name="step_notification_stop">Dừng</string>
+</resources>
